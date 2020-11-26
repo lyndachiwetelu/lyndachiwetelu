@@ -1,0 +1,15 @@
+### Hey Internet Person
+Welcome to my Github Page.
+
+### Who am I?
+I'm Lynda, a software engineer currently working as a PHP developer in Freiburg, Germany.
+
+### What are my interests?
+Programming (obviously), philosophy, psychology, literature etc.
+
+### Where can you find out more?
+On [my website](http://lyndachiwetelu.com)
+
+### What am I currently doing?
+React & Node.js on my own and PHP - for work
+
