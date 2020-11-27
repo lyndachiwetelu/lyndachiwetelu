@@ -1,4 +1,4 @@
-### Hey Internet Person
+### Hey Internet Person!
 Welcome to my Github Page.
 
 ### Who am I?
@@ -10,6 +10,6 @@ Programming (obviously), philosophy, psychology, literature etc.
 ### Where can you find out more?
 On [my website](http://lyndachiwetelu.com)
 
-### What am I currently doing?
+### What technologies am I currently working with?
 React & Node.js on my own and PHP - for work
 
