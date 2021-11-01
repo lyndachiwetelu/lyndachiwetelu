@@ -2,7 +2,7 @@
 Welcome to my Github Page.
 
 ### Who am I?
-I'm Lynda, a software engineer currently working as a Software developer in Freiburg, Germany.
+I'm Lynda, and I am currently working as a Software developer in Freiburg, Germany.
 
 ### What are my interests?
 Programming (obviously), philosophy, psychology, literature etc.
