@@ -11,5 +11,8 @@ Programming (obviously), philosophy, psychology, literature etc.
 On [my website](http://lyndachiwetelu.com)
 
 ### What technologies am I currently working with?
-iOS, React & Node.js on my own and PHP - for work
+Swift
+Golang
+C++
+PHP 
 
