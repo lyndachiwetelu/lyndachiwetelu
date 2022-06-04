@@ -5,7 +5,7 @@ Welcome to my Github Page.
 I'm Lynda, and I am currently working as a Software developer in Freiburg, Germany.
 
 ### What are my interests?
-Programming (obviously), philosophy, psychology, literature etc.
+Programming, philosophy, psychology, literature etc.
 
 ### Where can you find out more?
 On [my website](http://lyndachiwetelu.com)
