@@ -13,6 +13,6 @@ On [my website](http://lyndachiwetelu.com)
 ### What technologies am I currently working with?
 - Swift
 - Golang
-- C++
+- Typescript
 - PHP 
 
