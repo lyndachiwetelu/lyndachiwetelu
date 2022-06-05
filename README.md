@@ -1,5 +1,5 @@
 ### Hey Internet Person!
-Welcome to my Github Page.
+Welcome to my Github.
 
 ### Who am I?
 I'm Lynda, and I am currently working as a Software developer in Freiburg, Germany.
