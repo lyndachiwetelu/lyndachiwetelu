@@ -8,7 +8,7 @@ I'm Lynda, and I am currently working as a Software developer in Germany.
 Programming, philosophy, psychology, literature etc.
 
 ### Where can you find out more?
-On [my website](http://lyndachiwetelu.com), unless you've came from there already, in which case, you seen almost everything. But just in case, try Linkedin ;)
+On [my website](http://lyndachiwetelu.com), unless you've came from there already, in which case, you have seen almost everything. But just in case, try Linkedin ;)
 
 ### What technologies am I currently working with?
 - Swift
