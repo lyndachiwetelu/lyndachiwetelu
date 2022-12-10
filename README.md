@@ -2,7 +2,7 @@
 Welcome to my Github.
 
 ### Who am I?
-I'm Lynda, and I am currently working as a Software developer in Germany.
+I'm Lynda, and I am currently working as a Software engineer in Germany.
 
 ### What are my interests?
 Programming, philosophy, psychology, literature etc.
