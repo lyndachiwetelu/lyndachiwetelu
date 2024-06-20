@@ -11,8 +11,9 @@ Programming, philosophy, psychology, literature etc.
 On [my website](http://lyndachiwetelu.com), unless you've come from there already, in which case, you have seen almost everything. But just in case, try Linkedin ;)
 
 ### What technologies am I currently working with?
-- Swift
-- Golang
+
 - Typescript
+- Golang
+- Swift (iOS)
 - PHP 
 
